@@ -103,6 +103,10 @@ a, i {
   background-image: url('./images/g_6.jpg');
 }
 
+#img7 {
+  background-image: url('./images/g_7.jpg');
+}
+
 #gallery-container h1 {
   text-align: center;
 }
@@ -116,4 +120,35 @@ a, i {
 .small-image-container {
   height: 250px;
   margin-bottom: 20px;
+}
+
+footer{
+  border-top: 1px solid #ccc;
+}
+
+footer i{ 
+  font-size: 20px;
+}
+
+#social-icons-container{
+
+  padding: 25px;
+
+}
+
+#social-icons-container div{
+
+  text-align: center;
+
+}
+
+footer p {
+
+  text-align: center;
+  margin: 20px;
+}
+
+a:hover i{
+
+  color: #BDF071;
 }
